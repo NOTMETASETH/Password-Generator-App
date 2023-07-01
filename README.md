@@ -1,12 +1,17 @@
-## Python Password Generator (without gui)
+## I. Python Password Generator (without gui)
 
-Terminal input: python password-generator.py
+Terminal input: python 0-password-generator.py
 
-## Python Password Generator (with gui)
+## II. Python Password Generator (with gui)
 
-Terminal input: python password-gen-gui.py
+Terminal input: python 1-password-gen-gui.py
 
-## Stored Output File
-pass.csv 
+
+## III. Python Password Generator (with improved H4CK3R gui)
+
+Terminal input: python 2-pass-gen-better-gui.py
+
+## IV. Stored Output File
+File: pass.csv 
 
 
